@@ -23,16 +23,16 @@ SQLite
 
 ### Add Book
 
-<img src="book-management-system/Screenshots/Add%20book.png" alt="Add Book" width="500">
+<img src="book-management-system/Screenshots/Add%20book.png" alt="Add Book" width="300">
 
 ### View Books
 
-<img src="book-management-system/Screenshots/View%20Book.png" alt="View Books" width="500">
+<img src="book-management-system/Screenshots/View%20Book.png" alt="View Books" width="300">
 
 ### Edit Book
 
-<img src="book-management-system/Screenshots/Edit%20Book.png" alt="Edit Book" width="500">
+<img src="book-management-system/Screenshots/Edit%20Book.png" alt="Edit Book" width="300">
 
 ### Delete Book
 
-<img src="book-management-system/Screenshots/Deleted%20Book.png" alt="Delete Book" width="500">
+<img src="book-management-system/Screenshots/Deleted%20Book.png" alt="Delete Book" width="300">
