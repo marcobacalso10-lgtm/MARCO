@@ -21,11 +21,12 @@ SQLite
 
 ## System Screenshots
 
+### Add Book
+
+![Add Book](book-management-system/Screenshots/Add%20book.png)
+
 ### View Books
 ![View Books](book-management-system/Screenshots/View%20Book.png)
-
-### Add Book
-![Add Book](book-management-system/Screenshots/Add%20book.png)
 
 ### Edit Book
 ![Edit Book](book-management-system/Screenshots/Edit%20Book.png)
