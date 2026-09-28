@@ -3,8 +3,8 @@
 ## Project Code
 WST21-PM-2026-SF
 
-## Student Name
-Marco Bacalso
+## git push origin mainStudent Name:
+ Marco Bacalso
 
 ## Course & Year
 BSIT 2nd Year
