@@ -18,3 +18,7 @@ SQLite
 - View Books
 - Edit Book
 - Delete Book
+
+## Project Screenshot
+
+![Book Management System](book-management-system/book-management.png)
