@@ -1,10 +1,11 @@
-# Personal Task Manager
+
+# Book Management System
 
 ## Project Code
 WST21-PM-2026-SF
 
-## git push origin mainStudent Name:
- Marco Bacalso
+## Student Name
+Marco Bacalso
 
 ## Course & Year
 BSIT 2nd Year
@@ -13,8 +14,7 @@ BSIT 2nd Year
 SQLite
 
 ## Features
-- Add Task
-- View Tasks
-- Edit Task
-- Delete Task
-- Update Statusgit push origin main
+- Add Book
+- View Books
+- Edit Book
+- Delete Book
