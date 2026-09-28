@@ -1,11 +1,20 @@
-Project Code: WST21-PM-2026-SF
-Student Name: MARCO BACALSO  
-Course & Year: BSIT 2 YEAR
-Database Used: SQLite
+# Personal Task Manager
 
-Features:
+## Project Code
+WST21-PM-2026-SF
+
+## Student Name
+Marco Bacalso
+
+## Course & Year
+BSIT 2nd Year
+
+## Database Used
+SQLite
+
+## Features
 - Add Task
 - View Tasks
 - Edit Task
 - Delete Task
-- Update Status
+- Update Statusgit push origin main
