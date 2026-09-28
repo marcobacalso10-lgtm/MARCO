@@ -21,4 +21,4 @@ SQLite
 
 ## Project Screenshot
 
-![Book Management System](book-management-system/book-management.png)
+![Book Management System](book-management.png)
