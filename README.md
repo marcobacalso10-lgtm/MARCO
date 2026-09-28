@@ -19,6 +19,16 @@ SQLite
 - Edit Book
 - Delete Book
 
-## Project Screenshot
+## System Screenshots
 
-![Book Management System](book-management.png)
+### View Books
+![View Books](Screenshots/View%20Book.png)
+
+### Add Book
+![Add Book](Screenshots/Add%20book.png)
+
+### Edit Book
+![Edit Book](Screenshots/Edit%20Book.png)
+
+### Delete Book
+![Delete Book](Screenshots/Deleted%20Book.png)
