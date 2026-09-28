@@ -22,13 +22,13 @@ SQLite
 ## System Screenshots
 
 ### View Books
-![View Books](Screenshots/View%20Book.png)
+![View Books](book-management-system/Screenshots/View%20Book.png)
 
 ### Add Book
-![Add Book](Screenshots/Add%20book.png)
+![Add Book](book-management-system/Screenshots/Add%20book.png)
 
 ### Edit Book
-![Edit Book](Screenshots/Edit%20Book.png)
+![Edit Book](book-management-system/Screenshots/Edit%20Book.png)
 
 ### Delete Book
-![Delete Book](Screenshots/Deleted%20Book.png)
+![Delete Book](book-management-system/Screenshots/Deleted%20Book.png)
