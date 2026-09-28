@@ -23,7 +23,7 @@ SQLite
 
 ### Add Book
 
-![Add Book](book-management-system/Screenshots/Add%20book.png)
+<img src="book-management-system/Screenshots/Add%20book.png" alt="Add Book" width="800">
 
 ### View Books
 ![View Books](book-management-system/Screenshots/View%20Book.png)
